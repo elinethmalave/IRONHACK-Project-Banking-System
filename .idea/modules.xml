@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project Banking System.iml" filepath="$PROJECT_DIR$/.idea/Project Banking System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project Banking System/demo.iml" filepath="$PROJECT_DIR$/Project Banking System/demo.iml" />
+    </modules>
+  </component>
+</project>
